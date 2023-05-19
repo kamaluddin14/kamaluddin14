@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)](https://rishavchanda.io
-)
+
 <h1 align="center">Hi 👋, I'm Kamaluddin Shaikh</h1>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207")
+
 
 <h3 align="center">Passionate Data Science and Analytics Enthusiast. Proficient in Python, SQL, PowerBI, Tableau, Excel, and data processing. Skilled in conducting Exploratory Data Analysis (EDA), data cleaning, and visualization. Eager to leverage my knowledge and enthusiasm to solve complex business problems through data-driven insights. Seeking opportunities to contribute and grow in the exciting field of data science.</h3>
 
